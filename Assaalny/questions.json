@@ -1,0 +1,542 @@
+[
+  {
+    "correctChoice" : "ستيف جوبز",
+    "fourthChoice" : "توماس اديسون",
+    "thirdChoice" : "ستيف وزنياك",
+    "question" : "من هو مؤسس شركة ابل",
+    "secondChoice" : "بيل قيتس"
+  },
+  {
+    "thirdChoice" : "دبي",
+    "question" : "ما هي عاصمة الكويت",
+    "fourthChoice" : "عدن",
+    "correctChoice" : "الكويت",
+    "secondChoice" : "اليمامه"
+  },
+  {
+    "correctChoice" : "النحاس",
+    "thirdChoice" : "الالومنيوم",
+    "question" : "من اي مادة صنع تمثال الحرية",
+    "fourthChoice" : "الاسمنت",
+    "secondChoice" : "الحديد"
+  },
+  {
+    "secondChoice" : "في القفطب الجنوبي فقط",
+    "thirdChoice" : "في القطب الشمالي و الجنوبي",
+    "correctChoice" : "في القطب الشمالي فقط",
+    "question" : "اين يعيش الدب القطبي",
+    "fourthChoice" : "في ايسلندا"
+  },
+  {
+    "question" : "كم يبلغ طول الفقرة الواحدة من فقرات الزرافة",
+    "thirdChoice" : "23cm",
+    "correctChoice" : "22cm",
+    "fourthChoice" : "19cm",
+    "secondChoice" : "21cm"
+  },
+  {
+    "question" : "ما هو اكبر البحار بالعالم",
+    "correctChoice" : "البحر المتوسط",
+    "thirdChoice" : "البحر الكاريبي",
+    "fourthChoice" : "البحر الاحمر",
+    "secondChoice" : "البحر الاسود"
+  },
+  {
+    "fourthChoice" : "الذهب",
+    "question" : "ما هو اقدم معدن صنعه و استخدمه الانسان",
+    "secondChoice" : "الفضة",
+    "thirdChoice" : "الحديد",
+    "correctChoice" : "البرونز"
+  },
+  {
+    "correctChoice" : "الفراعنه",
+    "thirdChoice" : "العرب",
+    "secondChoice" : "الهندوس",
+    "fourthChoice" : "الاغريق",
+    "question" : "من هم اول الشعوب الذين اقترحو الحداد"
+  },
+  {
+    "thirdChoice" : "1940",
+    "secondChoice" : "1955",
+    "correctChoice" : "1945",
+    "fourthChoice" : "1946",
+    "question" : "متى تاسست جامعه الدول العربيه"
+  },
+  {
+    "fourthChoice" : "تونس",
+    "question" : "اين يقع الجامع الاموي",
+    "secondChoice" : "العراق",
+    "thirdChoice" : "مصر",
+    "correctChoice" : "سوريا"
+  },
+  {
+    "thirdChoice" : "فيتامين دي",
+    "secondChoice" : "فيتامين سي",
+    "fourthChoice" : "فيتامين اي",
+    "question" : "اي الفيتامينات يفيد في علاج الاعصاب",
+    "correctChoice" : "فيتامين بي"
+  },
+  {
+    "secondChoice" : "نيويورك",
+    "thirdChoice" : "جده",
+    "question" : "ما هي اكبر مدينه بالعالم",
+    "fourthChoice" : "كالافورنيا",
+    "correctChoice" : "طوكيو"
+  },
+  {
+    "secondChoice" : "الهجتان",
+    "correctChoice" : "البيوتان",
+    "question" : "ما هو الغاز المستعمل في الولاعة",
+    "thirdChoice" : "البروبان",
+    "fourthChoice" : "النكتين"
+  },
+  {
+    "correctChoice" : "التمساح",
+    "secondChoice" : "سمك القرش",
+    "fourthChoice" : "النمر",
+    "thirdChoice" : "الاسد",
+    "question" : "ماهو الحيوان الذي له اكبر عدد من الاسنان "
+  },
+  {
+    "thirdChoice" : "الصينية",
+    "question" : "ماهي الابجدية المصدر لكل ابجديات العالم ",
+    "fourthChoice" : "الاغريقية",
+    "correctChoice" : "الفينيقية",
+    "secondChoice" : "العربيه"
+  },
+  {
+    "secondChoice" : "المحيط الاطلسي",
+    "question" : "اين تقع جزر القمر",
+    "correctChoice" : "المحيط الهندي",
+    "thirdChoice" : "المحيط الهادي",
+    "fourthChoice" : "البحر المتوسط"
+  },
+  {
+    "correctChoice" : "نوح عليه السلام",
+    "thirdChoice" : "ادريس عليه السلام",
+    "fourthChoice" : "اسماعيل عليه السلام",
+    "secondChoice" : "ادم عليه السلام",
+    "question" : "من هو اطول الانبياء عمرا و الذي عاش ٩٥٠ سنه"
+  },
+  {
+    "secondChoice" : "الاكسجين",
+    "fourthChoice" : "ثالث اكسد الكربون",
+    "question" : "ما هو الغاز المستخدم في اطفاء الحرائق",
+    "thirdChoice" : "اول اكسيد الكربون",
+    "correctChoice" : "ثاني اكسيد الكربون"
+  },
+  {
+    "thirdChoice" : "بريطانيا",
+    "question" : "في اي بلد اطلق رياضة كرة اليد في العصر الحديث",
+    "correctChoice" : "المانيا",
+    "secondChoice" : "امريكا",
+    "fourthChoice" : "فرنسا"
+  },
+  {
+    "question" : "ما هو بعد الشمس عن الارض",
+    "fourthChoice" : "٢٠٠ مليون ميل",
+    "correctChoice" : "٩٣ مليون ميل",
+    "thirdChoice" : "١٠٠ مليون ميل",
+    "secondChoice" : "٦٧ مليون ميل"
+  },
+  {
+    "secondChoice" : "١٩٦٥",
+    "question" : "متى هبط اول انسان على القمر",
+    "thirdChoice" : "١٩٦٧",
+    "correctChoice" : "١٩٦٩",
+    "fourthChoice" : "١٩٦٨"
+  },
+  {
+    "question" : "ماذا تستعمل الافاعي في الشم",
+    "thirdChoice" : "الجلد",
+    "secondChoice" : "الانف",
+    "correctChoice" : "اللسان",
+    "fourthChoice" : "العين"
+  },
+  {
+    "fourthChoice" : "الصين",
+    "thirdChoice" : "المكسيك",
+    "secondChoice" : "امريكا",
+    "question" : "ماهي الدولة اللتي تعتبر اكبر مصدر للبن",
+    "correctChoice" : "البرازيل"
+  },
+  {
+    "correctChoice" : "خمس حلقات",
+    "secondChoice" : "اربع حلقات",
+    "question" : "كم حلقة يضم علم الاولمياد الذي يرمز الى قارات العالم الحديث",
+    "thirdChoice" : "ست حلقات",
+    "fourthChoice" : "سبع حلقات"
+  },
+  {
+    "secondChoice" : "عشر جولا",
+    "question" : "كم عدد الجولات في لعبة البيسبول",
+    "thirdChoice" : "ثلاث جولات",
+    "correctChoice" : "تسع جولات",
+    "fourthChoice" : "خمس جولات"
+  },
+  {
+    "question" : "كم يبلغ اعدد الانصاب في لعبة البولينج",
+    "secondChoice" : "تسعة",
+    "correctChoice" : "عشرة",
+    "fourthChoice" : "ثمانية",
+    "thirdChoice" : "اثني عشر"
+  },
+  {
+    "fourthChoice" : "العقيق",
+    "secondChoice" : "الالماس",
+    "question" : "اي الاحجار الكريمة الذي يرمز للعذرية و البراءة",
+    "thirdChoice" : "الفيروز",
+    "correctChoice" : "اللؤلؤ"
+  },
+  {
+    "thirdChoice" : "الانجليزية",
+    "correctChoice" : "الالمانية",
+    "fourthChoice" : "البرتغالية",
+    "secondChoice" : "النمساوية",
+    "question" : "ماهي لغة النمسا الرسمية"
+  },
+  {
+    "thirdChoice" : "واحد",
+    "correctChoice" : "اثنان",
+    "question" : "كم قمرا يدور حول المريخ",
+    "secondChoice" : "ثلاثة",
+    "fourthChoice" : "اربعة"
+  },
+  {
+    "secondChoice" : "الثعبان",
+    "fourthChoice" : "الراكون",
+    "thirdChoice" : "السلحفاة",
+    "correctChoice" : "الزرافة",
+    "question" : "ماهو الحيوان الذي لا صوت له على الاطلاق"
+  },
+  {
+    "correctChoice" : "المريخ",
+    "fourthChoice" : "المشتري",
+    "question" : "ما هو الكوكب الذي تعادل فيه السنه سنتين ارضيتين",
+    "secondChoice" : "الزهرة",
+    "thirdChoice" : "عطارد"
+  },
+  {
+    "question" : "كم مدة الحمل عند انثى الاسد",
+    "thirdChoice" : "٩٠ يوم",
+    "secondChoice" : "١٠٠ يوم",
+    "fourthChoice" : "١٣٠ يوم",
+    "correctChoice" : "١٠٦ ايام"
+  },
+  {
+    "thirdChoice" : "الكوبالت",
+    "secondChoice" : "الزنك",
+    "fourthChoice" : "البورون",
+    "correctChoice" : "الكربون",
+    "question" : "ما هو القاسم المشترك بين الفحم و الماس"
+  },
+  {
+    "question" : "اين يقع قصر اسكوريال الضخم",
+    "fourthChoice" : "امريكا",
+    "correctChoice" : "اسبانيا",
+    "secondChoice" : "الهند",
+    "thirdChoice" : "هولندا"
+  },
+  {
+    "question" : "ماهي الدولة التي تمتلك اكبر مخزون من الفوسفات",
+    "secondChoice" : "اسبانيا",
+    "thirdChoice" : "الهند",
+    "correctChoice" : "المغرب",
+    "fourthChoice" : "المانيا"
+  },
+  {
+    "fourthChoice" : "٣٥٠٠ كيلو",
+    "thirdChoice" : "٣٠٠٠ كيلو",
+    "secondChoice" : "١٥٠٠ كيلو",
+    "correctChoice" : "٢٤٠٠ كيلو",
+    "question" : "ما هو طول سور الصين العظيم"
+  },
+  {
+    "fourthChoice" : "المغرب",
+    "correctChoice" : "استراليا",
+    "thirdChoice" : "مصر",
+    "question" : "اين تقع صحراء جبسن",
+    "secondChoice" : "السعودية"
+  },
+  {
+    "question" : "ما هو اندر اللوان الماس",
+    "fourthChoice" : "الاحمر",
+    "secondChoice" : "الازرق",
+    "thirdChoice" : "الابيض",
+    "correctChoice" : "الاخضر"
+  },
+  {
+    "thirdChoice" : "٤٠ قدما",
+    "question" : "الى اي عمق يستطيع الضوء النفاذ في مياه البحر",
+    "fourthChoice" : "٤٥ قدما",
+    "secondChoice" : "٥٠ قدما ",
+    "correctChoice" : "٦٠ قدما"
+  },
+  {
+    "question" : "من هو الاديب العربي الذي اصيب بالعمى بسبب مرض الجدري",
+    "correctChoice" : "ابو العلاء المعرى",
+    "fourthChoice" : "طه حسين",
+    "thirdChoice" : "بشار بن برد",
+    "secondChoice" : "سيبويه"
+  },
+  {
+    "question" : "ما هي اكبر بحيرة عذبة في العالم",
+    "correctChoice" : "فيكتوريا",
+    "thirdChoice" : "بايكال",
+    "secondChoice" : "طبرية",
+    "fourthChoice" : "قزوين"
+  },
+  {
+    "question" : "اين يقع البحر الاصفر ",
+    "secondChoice" : "الصين",
+    "correctChoice" : "اليابان",
+    "fourthChoice" : "استراليا",
+    "thirdChoice" : "الهند"
+  },
+  {
+    "correctChoice" : "٦ دقائق",
+    "secondChoice" : "٥ دقائق",
+    "fourthChoice" : "١ دقيقة",
+    "question" : "كم يستغرق شعاع الشمس في رحلته الى الارض",
+    "thirdChoice" : "١٠ دقائق"
+  },
+  {
+    "thirdChoice" : "شرق اسيا",
+    "fourthChoice" : "غرب اسيا",
+    "question" : "اين تقع سلسلة جبال اطلس",
+    "secondChoice" : "جنوب افريقيا",
+    "correctChoice" : "غرب افريقيا"
+  },
+  {
+    "correctChoice" : "ابيض",
+    "thirdChoice" : "غصن طري",
+    "question" : "ما معنى اسم عنود",
+    "fourthChoice" : "ملتوي",
+    "secondChoice" : "غزال"
+  },
+  {
+    "question" : "ما عدد فقرات الرقبة عند الجمل",
+    "thirdChoice" : "١٠",
+    "correctChoice" : "٨",
+    "fourthChoice" : "٧",
+    "secondChoice" : "٩"
+  },
+  {
+    "correctChoice" : "في المحيط الاطلسي",
+    "secondChoice" : "البحر المتوسط",
+    "thirdChoice" : "المحيط الهندي",
+    "fourthChoice" : "البحر الهادي",
+    "question" : " اين تقع جزر القمر"
+  },
+  {
+    "thirdChoice" : "٥ عضلات",
+    "question" : "كم عضلة تتحكم في تحريك العين",
+    "correctChoice" : "٦ عضلات",
+    "fourthChoice" : "٣ عضلات",
+    "secondChoice" : "١٠ عضلات"
+  },
+  {
+    "thirdChoice" : "لندن",
+    "question" : "اين يوجد اكبر جرس في العالم",
+    "correctChoice" : "موسكو",
+    "fourthChoice" : "الفاتيكان",
+    "secondChoice" : "نيويورك"
+  },
+  {
+    "secondChoice" : "موسكو",
+    "thirdChoice" : "مدريد",
+    "correctChoice" : "لندن",
+    "fourthChoice" : "واشنطن",
+    "question" : "اين توجد ساعة بيغ بن"
+  },
+  {
+    "correctChoice" : "تساعده على اداء و ظائفه",
+    "thirdChoice" : "تساهم في بناء الانسجة",
+    "fourthChoice" : "تمد الجسم بالهرمونات",
+    "question" : "فائدة الفيتامينات للجسم هي:",
+    "secondChoice" : "تمد الجسم بالطاقة"
+  },
+  {
+    "fourthChoice" : "حامض الكبريتيك",
+    "thirdChoice" : "النكتين",
+    "correctChoice" : "الفوسفور",
+    "secondChoice" : "الاكسجين",
+    "question" : "ما هي المادة التي تشعل عود الثقاب"
+  },
+  {
+    "fourthChoice" : "الغراب",
+    "secondChoice" : "الجمل",
+    "correctChoice" : "الاسد",
+    "question" : "ما هو اقوى الحيوانات ذاكرة",
+    "thirdChoice" : "القرد"
+  },
+  {
+    "thirdChoice" : "امريكا",
+    "correctChoice" : "فرنسا",
+    "secondChoice" : "اليونان",
+    "fourthChoice" : "السويد",
+    "question" : "اين تقع جزر لانجر هانس"
+  },
+  {
+    "question" : "ما هو اللوسوزين",
+    "thirdChoice" : "هو غدة في االدماغ",
+    "correctChoice" : "انزيم في الدموع",
+    "fourthChoice" : "انزيم في المعدة",
+    "secondChoice" : "انزيم في الكبد"
+  },
+  {
+    "question" : "ماهو عدد عظام القفص الصدري في الانسان",
+    "thirdChoice" : "١٨",
+    "secondChoice" : "١٤",
+    "correctChoice" : "١٢",
+    "fourthChoice" : "٨"
+  },
+  {
+    "secondChoice" : "الرئتين",
+    "correctChoice" : "القلب",
+    "thirdChoice" : "الاوعية الدموية",
+    "question" : " اين تتكون خلايا الدم البيضاء و الحمراء",
+    "fourthChoice" : "الكلى"
+  },
+  {
+    "thirdChoice" : "الانفلونزا",
+    "secondChoice" : "الانيميا",
+    "correctChoice" : "الايدز",
+    "fourthChoice" : "اللوكيمياء",
+    "question" : "بم يعرف مرض نقص المناعة المكتسبه"
+  },
+  {
+    "thirdChoice" : "الطحال",
+    "secondChoice" : "البنكرياس",
+    "correctChoice" : "الكبد",
+    "question" : "ما هو العضو اللذي يفرز مادة الانسولوين",
+    "fourthChoice" : "الكلى"
+  },
+  {
+    "secondChoice" : "19",
+    "correctChoice" : "22",
+    "question" : "عدد عظام الجمجمة في الانسان هو ",
+    "fourthChoice" : "17",
+    "thirdChoice" : "18"
+  },
+  {
+    "question" : "ما هي اطول عظمة في جسم الانسان",
+    "secondChoice" : "الرقبة",
+    "thirdChoice" : "الساق",
+    "correctChoice" : "الفخذ",
+    "fourthChoice" : "الترقوة"
+  },
+  {
+    "correctChoice" : "تخليص الجسم من السموم",
+    "thirdChoice" : "تنقية الغذاء",
+    "fourthChoice" : "هضم الغذاء",
+    "secondChoice" : "توصيل الغذاء للكبد",
+    "question" : "ماهي وظيفة الكلية في جسم الانسان"
+  },
+  {
+    "correctChoice" : "باع",
+    "question" : "من وحدات القياس القديمة",
+    "fourthChoice" : "متر",
+    "thirdChoice" : "صالح",
+    "secondChoice" : "الطن"
+  },
+  {
+    "fourthChoice" : "الاتكالي",
+    "correctChoice" : "الاحمق",
+    "secondChoice" : "الارعن",
+    "thirdChoice" : "الاجوف",
+    "question" : "الرجل الذي يريد ان ينفعك فيضرك هو "
+  },
+  {
+    "question" : "كم عدد عيون النحل",
+    "secondChoice" : "ست اعين",
+    "thirdChoice" : "سبع اعين",
+    "correctChoice" : "٥ اعين",
+    "fourthChoice" : "عينين"
+  },
+  {
+    "secondChoice" : "الرياض",
+    "thirdChoice" : "االاسكندرية",
+    "question" : "ماهي عروس البحر",
+    "fourthChoice" : "شرم الشيخ",
+    "correctChoice" : "جدة"
+  },
+  {
+    "thirdChoice" : "الذئب",
+    "fourthChoice" : "الثعلب",
+    "correctChoice" : "الاسد",
+    "secondChoice" : "النمر",
+    "question" : "ما هو الحيوان الذي يعرف صوته بالزئير"
+  },
+  {
+    "question" : "ينتج اكبر مقدار من الارز في",
+    "thirdChoice" : "اندونيسيا",
+    "fourthChoice" : "اليابان",
+    "correctChoice" : "الصين",
+    "secondChoice" : "السعودية"
+  },
+  {
+    "question" : "الحشرة التي لا تسمع هي",
+    "correctChoice" : "الذباب",
+    "secondChoice" : "الجراد",
+    "fourthChoice" : "البرغوث",
+    "thirdChoice" : "الخنساء"
+  },
+  {
+    "secondChoice" : "سيدني",
+    "question" : "عاصمة استراليا هي",
+    "thirdChoice" : "هافانا",
+    "fourthChoice" : "نيويورك",
+    "correctChoice" : "كانبرا"
+  },
+  {
+    "secondChoice" : "هرمز",
+    "thirdChoice" : "باب المندب",
+    "fourthChoice" : "سينا",
+    "question" : "اسم المضيق الواقع بين اسبانبا و المغرب هو ",
+    "correctChoice" : "جبل طارق"
+  },
+  {
+    "fourthChoice" : "مصر",
+    "correctChoice" : "سوريا",
+    "question" : "اين يوجد سد الفرات",
+    "thirdChoice" : "تركيا",
+    "secondChoice" : "العراق"
+  },
+  {
+    "thirdChoice" : "البحر المتوسط",
+    "fourthChoice" : "البحر الميت",
+    "correctChoice" : "البحر الاحمر",
+    "question" : "ماهو البحر المعروف باسم بحر القلزم",
+    "secondChoice" : "البحر الاسود"
+  },
+  {
+    "secondChoice" : "الامازون",
+    "thirdChoice" : "الفرات",
+    "fourthChoice" : "دجنه",
+    "question" : "ما هو اطول نهر في العالم",
+    "correctChoice" : "النيل"
+  },
+  {
+    "thirdChoice" : "فرنسا",
+    "secondChoice" : "اسبانيا",
+    "correctChoice" : "ايطاليا",
+    "fourthChoice" : "امريكا",
+    "question" : "اين يقع برج بيزا المائل"
+  },
+  {
+    "fourthChoice" : "بيل قيتس",
+    "question" : "من هو مخترع المصباح",
+    "secondChoice" : "فلوتا",
+    "thirdChoice" : "جوون ووكر",
+    "correctChoice" : "توماس اديسون"
+  },
+  {
+    "question" : "اين ابتكرت كرة القدم",
+    "correctChoice" : "انجلترا",
+    "secondChoice" : "البرازيل",
+    "fourthChoice" : "ايطاليا",
+    "thirdChoice" : "اسبانيا"
+  }
+]
+
